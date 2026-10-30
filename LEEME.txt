@@ -1,0 +1,3 @@
+Historieta de Jacob - versión móvil corregida.
+Sube index.html y la carpeta imagenes al mismo directorio.
+En móvil una página ocupa todo el ancho, sin bandas negras. Toca la imagen para ampliarla; desliza para pasar páginas.
